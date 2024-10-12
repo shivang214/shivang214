@@ -21,7 +21,9 @@ I'm a passionate software developer currently pursuing my M.Tech in Computer Sci
 - Artificial Learning and Machine Learning .
 
 ## 📫 How to Reach Me
-[LinkedIn](https://www.linkedin.com/in/shivang214/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivang214/)](https://www.linkedin.com/in/shivang214/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@shivang214@gmail.com)
+
 
 ## ✨ Coding Journey
 Checkout my coding profile and solutions on [Leetcode](https://leetcode.com/u/shivang214/)
